@@ -1,5 +1,5 @@
 # Delta
-An automated obstacle avoiding lawn mowing rover
+An automated obstacle avoiding lawn mowing 4WD rover
 
 
 ## Inspiration 
