@@ -22,3 +22,6 @@ We learned about IR LEDs and got to know about them in a better way. We are even
 
 ## What's next for Delta
 Converting this model to an actual automated Lawn Mower that will be capable of cutting the grass and collect it inside a sack simultaneously. Attaching more IR Sensors so that they will detect obstacles with a higher degree of accuracy. Maybe with some omni-wheels, we can give it a three degree of freedom.
+
+## Circuitry
+Tinkercad link: https://www.tinkercad.com/things/lrE8jGwSxHR
